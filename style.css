@@ -1,0 +1,8 @@
+body {
+    min-width: 300px;
+    color:rgb(207, 24, 24);
+    background-image: url("cricket.jpg");
+  /* background-repeat: no-repeat;
+  background-position: right top; */
+  margin-right: 200px;
+}
